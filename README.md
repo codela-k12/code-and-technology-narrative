@@ -14,7 +14,7 @@ After this activity, you'll be ready to tackle other Codela projects. [Go to Cod
 
 2. Find this project folder in your downloads and move it to a secure place on your local computer. You'll return to this project folder to manage your scripts, images, and other assets. 
 
-3. Download and/or open a code editor. We recommend [Phoenix Code](https://phcode.dev) which runs on a browser or [download](https://phcode.io/#/home) a desktop version. See more information on code editors below.  
+3. Download and/or open a code editor. We recommend [Phoenix Code](https://phcode.dev) which runs on a browser or [download](https://phcode.io/#/home) a desktop version. See more information on code editors below (including video tutorials!)   
 
 4. Use the code editor to open the index.html document. Read through the code comments embedded in the index.html document. Here, you'll find all the information you need to work with code!  
 
@@ -36,13 +36,13 @@ After this activity, you'll be ready to tackle other Codela projects. [Go to Cod
 
  
  
-## Code Editors 
+## Phoenix code editor 
 
 You have a range of code editor options depending on your operating system, but we recommend [Phoenix Code](https://phcode.dev) because it works across all operating systems, it comes with HTML preview already installed, and it's free and open-source
 
 
-###Phoenix Code (Download or use Online)
-[See Video Tutorial]()
+### Phoenix Code (Download or use Online)
+[See Video Tutorial](https://youtu.be/j8o506PZ1H8)
 
 1. Go to [Phoenix Code](https://phcode.dev). 
 1. Use the online version or [download](https://phcode.io/#/home) a desktop app for Mac, Windows, Linux. 
@@ -51,7 +51,7 @@ You have a range of code editor options depending on your operating system, but 
 
 
 
-## Other Code Editors
+## Support for other code editors
 
 ### Pulsar (Open-Source for Mac / Windows / Linux)
 [See Video Tutorial](https://youtu.be/dKcJm4V53ig)
